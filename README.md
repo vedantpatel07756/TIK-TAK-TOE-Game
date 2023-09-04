@@ -8,6 +8,7 @@ Simple and intuitive user interface.
 
 <h3>Demo</h3>
 You can try the game out live here.
+https://vedantpatel07756.github.io/TIK-TAK-TOE-Game/
 
 <h3>Installation</h3>
 To run this game locally on your machine, follow these steps:
